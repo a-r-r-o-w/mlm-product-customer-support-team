@@ -6,7 +6,7 @@ Masked Language Modelling for Product and Customer Support Teams at Nike using d
 
 **Discord:** Arrow#1334
 
-The required proofs for the contest 
+The required proofs for the contest can be found towards the bottom of this document.
 
 ### Problem Statement
 
